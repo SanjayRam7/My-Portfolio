@@ -5,6 +5,7 @@
    * colors
    */
 
+	
   /* gradient */
 
   --bg-gradient-onyx: linear-gradient(
@@ -46,6 +47,7 @@
   --eerie-black-2: rgb(93, 96, 94);
   --smoky-black: hsl(0, 1%, 23%);
   --white-1: hsl(0, 0%, 100%);
+	
   --white-2: hsl(0, 0%, 98%);
   --orange-yellow-crayola: hsl(45, 100%, 72%);
   --vegas-gold: hsl(45, 54%, 58%);
